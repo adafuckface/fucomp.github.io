@@ -14,6 +14,6 @@ bloat and replacing it with bile, vitriol and text-based interfaces.
 
 Watch this space for content and submission guidelines.
 
-You can find the source code for the Jekyll new theme at:
+You can find the source code for the site at:
 {% include icon-github.html username="fucomp" %} /
-[minima](https://github.com/fucomp/fucomp.github.io)
+[fucomp.github.io](https://github.com/fucomp/fucomp.github.io)
