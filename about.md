@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Fuck You Computer (fuckyou.computer, fu:c, fu!comp or whatever you want to call
+it) is a (very) loosely organised anarchistic collective based around
+computing, how it is and how it should be.
+
+Working on the philosophy that your computer should do what it's fucking told,
+not what it thinks you should probably want, we're all about chopping out the
+bloat and replacing it with bile, vitriol and text-based interfaces.
+
+Watch this space for content and submission guidelines.
 
 You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include icon-github.html username="fucomp" %} /
+[minima](https://github.com/fucomp/fucomp.github.io)
